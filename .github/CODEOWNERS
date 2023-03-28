@@ -1,0 +1,7 @@
+# The users or teams that are responsible for code in the repository.
+# The file uses the same syntax as `.gitignore` files.
+# See https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+# for more information about the CODEOWNERS file format.
+
+# Individual responsible for the /** directory
+/**     @code5753
